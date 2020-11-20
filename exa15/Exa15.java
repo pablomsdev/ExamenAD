@@ -29,7 +29,7 @@ public class Exa15 {
         String password = "hr";
         String host = "localhost"; 
         String puerto = "1521";
-        String sid = "XE";
+        String sid = "orcl";
         String ulrjdbc = "jdbc:oracle:thin:" + usuario + "/" + password + "@" + host + ":" + puerto + ":" + sid;
         
            
